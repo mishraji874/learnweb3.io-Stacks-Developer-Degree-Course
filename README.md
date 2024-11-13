@@ -23,12 +23,12 @@
 
 **Introduction to Stacks**
 
-- [Introduction to Bitcoin]()
-- [Introduction to Stacks]()
-- [The case for Bitcoin DeFi]()
-- [Clarity: The programming language for Stacks]()
-- [SIP-010 Fungible Tokens & Traits]()
-- [Project: Build a token streaming protocol]()
+- [Introduction to Bitcoin](https://learnweb3.io/degrees/stacks-developer-degree/introduction-to-stacks/introduction-to-bitcoin/)
+- [Introduction to Stacks](https://learnweb3.io/degrees/stacks-developer-degree/introduction-to-stacks/introduction-to-stacks/)
+- [The case for Bitcoin DeFi](https://learnweb3.io/degrees/stacks-developer-degree/introduction-to-stacks/the-case-for-bitcoin-de-fi/)
+- [Clarity: The programming language for Stacks](https://learnweb3.io/degrees/stacks-developer-degree/introduction-to-stacks/clarity-the-programming-language-for-stacks/)
+- [SIP-010 Fungible Tokens & Traits](https://learnweb3.io/degrees/stacks-developer-degree/introduction-to-stacks/sip-010-fungible-tokens-and-traits/)
+- [Project: Build a token streaming protocol](https://learnweb3.io/degrees/stacks-developer-degree/introduction-to-stacks/project-build-a-token-streaming-protocol/)
 
 ### About
 
